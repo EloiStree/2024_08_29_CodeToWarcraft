@@ -47,7 +47,7 @@ L'atelier est organisé sur 5 jours.
 - Jour 1 : Introduction à Scratch et l'exercice
 - Jour 2 : Apprendre à bouger dans le jeu
 - Jour 3 : Créer un interface pour gérer ses sortilèges
-- Jour 4 : Lancer des sorts avec la reconnaissance vocales 😁
+- Jour 4 : Lancer des sorts avec la reconnaissance vocales 😁 et autres outils de Scratch
 - Jour 5 : Essayer de finir un donjon en groupe
 
 ## Objectif
