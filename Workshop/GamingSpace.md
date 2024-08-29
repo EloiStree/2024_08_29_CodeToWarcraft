@@ -92,6 +92,7 @@ Pour que cet atelier ait lieu, il y a des contraintes d'organisation.
 - Présence d'ordinateurs avec World of Warcraft et Tamper Monkey installé.
    - L'installation peut avoir lieu pendant l'atelier, mais cela est déconseillé.
 - Les participants peuvent amener leur ordinateur mais je dois installer Tamper Monkey et un sript.
+- Avoir deux écrans est conseillé.
 - Présence d'un projecteur ou grand écran pour donner le cours sur place.
 - Atelier organisé via la [SMart](https://smartbe.be/fr).
 
